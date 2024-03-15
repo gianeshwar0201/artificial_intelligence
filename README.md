@@ -1,4 +1,4 @@
-# artificial_intelligence
+# Artificial Intelligence Use Cases & Tools
 Repository For Gathering More Information of Ai Uses &amp; Tools
 This GitHub repository is a treasure trove for anyone curious about artificial intelligence (AI) and the plethora of tools it encompasses. It's like a digital library, but instead of books, it's filled with resources, studies, and examples of AI in action. Whether you're a beginner trying to get your head around what AI can do or a seasoned pro looking for the latest tools to add to your toolkit, this repository has something for you.
 
