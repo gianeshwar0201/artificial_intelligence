@@ -15,3 +15,13 @@ In essence, this GitHub repository stands as an invaluable resource for anyone l
 <b>Gemini Advanced AI:</b> Gemini steps onto the stage with a slightly different focus. While details about its capabilities are more specialized, it's known for its cutting-edge advancements in specific areas such as machine learning, natural language processing, and potentially other AI-driven tasks. Gemini Advanced AI might be tailored towards more specialized applications, such as deep data analysis, predictive modeling, or highly specialized knowledge domains. Its strength lies in its ability to handle complex computations, analyze large datasets, and provide insights that might not be immediately apparent to human analysts.
 
 In essence, while ChatGPT excels in conversational AI, language understanding, and content generation across a broad spectrum, Gemini Advanced AI might shine in areas requiring deep technical expertise, advanced data analysis, or specialized applications. Each serves as a testament to the rapid advancements in AI, showcasing how these technologies can cater to a wide array of needs and industries.
+
+<h3>ChatGPT and Gemini Advanced Ai Prompts</h3>
+
+<h4>1. Image Creation Prompts</h4>
+<h4>2. Blog Creation Prompts</h4>
+
+<h3>Artificial Intelligence In Wearable Technology</h3>
+
+<h4>1. Spatial Computing & Virtual Reality</h4>
+<p><a title="Spatial" href="https://techlifewell.com/what-is-spatial-computing/" target="_blank" rel="dofollow"> <strong>Read More About: Spatial Computing</strong></a><br /><br /></p>
